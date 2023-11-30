@@ -34,9 +34,17 @@ Have fun!
 # Credits
 
 tihmstar for pzb/original iBoot64Patcher/img4tool
+
 xerub for img4lib and restored_external in the ramdisk
+
 Cryptic for iBoot64Patcher fork
+
 opa334 for TrollStore
+
 Nebula for a bunch of QOL fixes to this script
+
 OpenAI for converting kerneldiff into C
+
 Ploosh for KPlooshFinder
+
+Nathan (verygenericname) SSHRD
